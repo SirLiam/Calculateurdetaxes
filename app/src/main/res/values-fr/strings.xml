@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_3">Section 3</string>
+    <string name="menu_legumes">Légumes</string>
+    <string name="menu_taxes">Taxes</string>
+    <string name="app_name">Calculateur de Taxes</string>
+    <string name="amount">Montant</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="calculate">Calculer</string>
+    <string name="exit_menu">Quitter</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="title_activity_main2">Activité 2</string>
+    <string name="title_activity_main3">Activité 3</string>
+    <string name="legume_preferer">Ton %1$s légume favoris est %2$s</string>
+    <string name="fragment2_new_button">Quel légume ??</string>
+    <string name="money_convert">Convertir</string>
+</resources>

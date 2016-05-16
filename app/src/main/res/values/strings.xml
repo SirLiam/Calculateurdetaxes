@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_3">Section 3</string>
+    <string name="menu_legumes">Vegetables</string>
+    <string name="menu_taxes">Taxes</string>
+    <string name="app_name">Taxes Calculator</string>
+    <string name="amount">Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="title_activity_main2">Activity Main 2</string>
+    <string name="title_activity_main3">Activity Main 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit_menu">Exit</string>
+    <string name="fragment3">fragment3</string>
+    <string name="legume_preferer">your %1$s favorite vegetable is %2$s</string>
+    <string name="fragment2_new_button">What Vegetable??</string>
+    <string name="money_convert">Convert</string>
+    <string name="cad_usd" translatable="false">CAD/USD</string>
+</resources>
