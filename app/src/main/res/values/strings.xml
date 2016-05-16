@@ -15,4 +15,5 @@
     <string name="fragment2_new_button">What Vegetable??</string>
     <string name="money_convert">Convert</string>
     <string name="cad_usd" translatable="false">CAD/USD</string>
+    <string name="fragment_2">Fragment 2 ENG</string>
 </resources>

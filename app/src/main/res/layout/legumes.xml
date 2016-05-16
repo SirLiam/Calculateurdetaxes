@@ -10,12 +10,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Fragment 2"
+        android:text="@string/fragment_2"
         android:id="@+id/textView3"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="47dp"
-        android:layout_alignParentLeft="false" />
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"/>
 
     <Button
         android:layout_width="wrap_content"
