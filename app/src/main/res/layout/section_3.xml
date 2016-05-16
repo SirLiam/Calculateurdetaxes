@@ -47,8 +47,8 @@
         android:text="@string/calculate"
         android:id="@+id/buttonCalculerCurrency"
         android:background="@android:color/holo_green_light"
-        android:paddingLeft="50dp"
-        android:paddingRight="50dp"
+        android:paddingLeft="65dp"
+        android:paddingRight="65dp"
         android:layout_marginTop="15dp"
         android:layout_marginBottom="15dp" />
 
